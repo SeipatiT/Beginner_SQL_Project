@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+  background-color: #FDFDFD;
+}
+
+form {
+padding: 20px;
+height: 20px;
+width: 6.6%;
+  background-color: #F2F2F2;
+}
+
+input {
+padding-top: 12px;
+padding-bottom: 20px;
+margin-top: 25px;
+margin-bottom: 25px;
+border-style: solid;
+border-color: rgb(204,204,204);
+border-width: 1px;
+
+}
+input[type=submit]:hover{
+background-color: rgb(69,160,73) ;
+}
+input[type=submit]{
+background-color: rgb(76,175,80) ;
+color: white;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 14px;
+padding-bottom: 14px;
+}
